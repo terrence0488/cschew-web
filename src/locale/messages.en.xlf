@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="zh">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="en">
     <body>
       <trans-unit id="a50d90500e9d808518247c998cc20ffe505de7ea" datatype="html">
         <source>Chew Chong Sin</source>
@@ -16,7 +16,7 @@
           <context context-type="sourcefile">app/frontend/frontend.component.ts</context>
           <context context-type="linenumber">46</context>
         </context-group>
-      <target state="new">Chew Chong Sin</target></trans-unit>
+      <target state="final">Chew Chong Sin</target></trans-unit>
       <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
         <source>Home</source>
         <context-group purpose="location">
@@ -27,7 +27,7 @@
           <context context-type="sourcefile">app/frontend/frontend.component.ts</context>
           <context context-type="linenumber">51</context>
         </context-group>
-      <target state="new">Home</target></trans-unit>
+      <target state="final">Home</target></trans-unit>
       <trans-unit id="33629999fd41361c48d5a60a5783dfdbd09276b7" datatype="html">
         <source>Calendar</source>
         <context-group purpose="location">
@@ -38,7 +38,7 @@
           <context context-type="sourcefile">app/frontend/frontend.component.ts</context>
           <context context-type="linenumber">54</context>
         </context-group>
-      <target state="new">Calendar</target></trans-unit>
+      <target state="final">Calendar</target></trans-unit>
       <trans-unit id="af88c1e95a1d16d3cdbb7210981e0bfb6dc1d137" datatype="html">
         <source>Events</source>
         <context-group purpose="location">
@@ -49,7 +49,7 @@
           <context context-type="sourcefile">app/frontend/frontend.component.ts</context>
           <context context-type="linenumber">57</context>
         </context-group>
-      <target state="new">Events</target></trans-unit>
+      <target state="final">Events</target></trans-unit>
       <trans-unit id="d2a7deb7096cada2c3177157652680fe7e6de0ed" datatype="html">
         <source>Projects</source>
         <context-group purpose="location">
@@ -60,7 +60,7 @@
           <context context-type="sourcefile">app/frontend/frontend.component.ts</context>
           <context context-type="linenumber">60</context>
         </context-group>
-      <target state="new">Projects</target></trans-unit>
+      <target state="final">Projects</target></trans-unit>
       <trans-unit id="29dd5aeb2f990fb915bad7c8493de080e234e326" datatype="html">
         <source>Fundings</source>
         <context-group purpose="location">
@@ -71,7 +71,7 @@
           <context context-type="sourcefile">app/frontend/frontend.component.ts</context>
           <context context-type="linenumber">63</context>
         </context-group>
-      <target state="new">Fundings</target></trans-unit>
+      <target state="final">Fundings</target></trans-unit>
       <trans-unit id="2ee26d58f2707416e636887111d5603b35346c4a" datatype="html">
         <source>Allocation</source>
         <context-group purpose="location">
@@ -82,7 +82,7 @@
           <context context-type="sourcefile">app/frontend/frontend.component.ts</context>
           <context context-type="linenumber">66</context>
         </context-group>
-      <target state="new">Allocation</target></trans-unit>
+      <target state="final">Allocation</target></trans-unit>
       <trans-unit id="02e9e69ddcbf93de9fd38bc4d0f312142658610d" datatype="html">
         <source>Contact Us</source>
         <context-group purpose="location">
@@ -93,7 +93,7 @@
           <context context-type="sourcefile">app/frontend/frontend.component.ts</context>
           <context context-type="linenumber">69</context>
         </context-group>
-      <target state="new">Contact Us</target></trans-unit>
+      <target state="final">Contact Us</target></trans-unit>
     </body>
   </file>
 </xliff>
